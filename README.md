@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Raghdkun – a passionate Flutter Developer & Web Developer!<br>🚀 I build mobile apps with Flutter and responsive websites with HTML, CSS, JavaScript, and Laravel.<br>💼 Love working with Firebase, MySQL, and APIs to create seamless user experiences.<br>🌱 Always learning & open to new challenges!
+👋 Hi, I'm Raghdkun – a passionate Flutter Developer & Web Developer!<br>🚀 I build mobile apps with Flutter and responsive websites with NextJS, and Laravel.<br>💼 Love working with Firebase, MySQL, and APIs to create seamless user experiences.<br>🌱 Always learning & open to new challenges!
 
 
 ## 🌐 Socials:
